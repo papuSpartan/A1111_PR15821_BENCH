@@ -1,4 +1,4 @@
-## Graphed Comparison
+## Graphed Comparison For [#15821](https://github.com/AUTOMATIC1111/stable-diffusion-webui/pull/15821)
 Manually gathered by:
 - Generating 3 "warmup" images and tossing the results
 - Generating 20 more images and averaging the reported it/s together
